@@ -22,9 +22,12 @@ Go to your downloads
 
 After ran make sure to get your mods and import them
 
+
 <img width="207" height="112" alt="image" src="https://github.com/user-attachments/assets/e174cc3a-d364-4b68-8a7e-4b223244d43e" />
 
+
 Then just hit inject
+
 
 <img width="289" height="96" alt="image" src="https://github.com/user-attachments/assets/3851ec4e-732d-4a94-8cf5-5d9e90ed7402" />
 
