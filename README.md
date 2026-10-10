@@ -1,8 +1,10 @@
-#DISCLAIMER
+# DISCLAIMER
+
 Animal Manager does get flagged by your antivirus because of what it does.
 The reason it might get flagged is because that it is injecting code into you game. (Thats a no no to windows)
 
 # AnimalManager
+
 This is a ModManager for AnimalCompany
 
 
